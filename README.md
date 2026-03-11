@@ -1,5 +1,7 @@
-# cli_utils
+# How to install cli_utils
+$ pip install git+https://github.com/yankapalain-bot/cli_utils.git
 
+# cli_utils
 A beginner-friendly Python package with CLI utility functions.
 
 ## Usage
